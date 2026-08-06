@@ -1,4 +1,4 @@
-## Hi there 👋 It's Allan Yu
+## Hi there, I'm Allan Yu 👋
 
 Data Science and Mathematics student at NYU (Class of 2028), building at the intersection of finance and code.
 
